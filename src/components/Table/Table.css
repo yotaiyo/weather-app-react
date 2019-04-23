@@ -1,0 +1,21 @@
+table{
+  margin-top: 30px;
+}
+
+th{
+  padding: 10px 30px;
+  width: 1000px;
+  font-weight: normal;
+}
+
+.date{
+  font-weight: bold;
+}
+
+.temperature-max{
+  color: red;
+}
+
+.temperature-min{
+  color: blue;
+}

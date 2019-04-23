@@ -1,0 +1,9 @@
+.description-area{
+  width: 500px;
+  margin-top: 30px;
+  float: left;
+}
+
+.description-title{
+  font-weight: bold;
+}

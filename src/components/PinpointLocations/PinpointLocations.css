@@ -1,0 +1,15 @@
+.pinpoint-locations-area{
+  width: 500px;
+  height: 500px;
+  margin-top: 30px;
+  float: right;
+}
+
+.pinpoint-locations-title{
+  font-weight: bold;
+}
+
+li{
+  float: left;
+  margin-left: 20px;
+}
